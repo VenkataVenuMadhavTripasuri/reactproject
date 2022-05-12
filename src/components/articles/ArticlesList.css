@@ -1,0 +1,20 @@
+#gridimg{
+    text-align: center;
+}
+
+#gridimg h3{
+    font-size: 20px;
+}
+
+#gridimg img{
+    border-radius: 20px;
+    height: 85%;
+    width: 85%;
+}
+#hero{
+    background-image: url('https://www.unboxingart.in/wp-content/uploads/2021/03/all-courses-header-1.png');
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    color:white;
+}

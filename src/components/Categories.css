@@ -1,0 +1,11 @@
+#categrories img{
+    max-width: 10%;
+    border-radius: 10px;
+
+}
+
+#categories{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
